@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[COVID-19 Cases and Deaths][![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arquillen-py/jupyter-books/HEAD?filepath=Covid.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
