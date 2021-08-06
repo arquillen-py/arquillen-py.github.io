@@ -22,8 +22,13 @@ Creating a word cloud using user reviews from Metacritic.
 <img src="images/vgwc.jpg"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+## Regional Video Game Sales
+  
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arquillen-py/jupyter-books/HEAD?filepath=regionalsalescat.ipynb)  
+  
+An analysis of video game sales ranging from 1980 to 2016.
+
+<img src="images/eujpusa.png"/>
 
 ---
 
