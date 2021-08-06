@@ -13,8 +13,11 @@ An analysis of COVID-19 data, provided by the CDC, at a state-level. Includes ca
   <img src="images/corona.jpg"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+## COVID-19 Cases and Deaths  
+  
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arquillen-py/jupyter-books/HEAD?filepath=metacriticwordcloud.ipynb)  
+
+<img src="images/vgwc"/>
 
 ---
 [Project 3 Title](http://example.com/)
