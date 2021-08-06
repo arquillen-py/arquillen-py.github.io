@@ -17,7 +17,7 @@ An analysis of COVID-19 data, provided by the CDC, at a state-level. Includes ca
   
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arquillen-py/jupyter-books/HEAD?filepath=metacriticwordcloud.ipynb)  
 
-<img src="images/vgwc"/>
+<img src="images/vgwc.jpg"/>
 
 ---
 [Project 3 Title](http://example.com/)
