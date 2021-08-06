@@ -5,7 +5,8 @@
 # Python Projects
 
 ## COVID-19 Cases and Deaths
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arquillen-py/jupyter-books/HEAD?filepath=Covid.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arquillen-py/jupyter-books/HEAD?filepath=Covid.ipynb)  
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
