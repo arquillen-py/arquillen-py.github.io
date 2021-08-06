@@ -13,7 +13,7 @@ An analysis of COVID-19 data, provided by the CDC, at a state-level. Includes ca
   <img src="images/corona.jpg"/>
 
 ---
-## COVID-19 Cases and Deaths  
+## Metacritic Video Game Review Comments 
   
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arquillen-py/jupyter-books/HEAD?filepath=metacriticwordcloud.ipynb) 
 
