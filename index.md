@@ -4,8 +4,10 @@
 
 # Python Projects
 
-## COVID-19 Cases and Deaths
+## COVID-19 Cases and Deaths  
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arquillen-py/jupyter-books/HEAD?filepath=Covid.ipynb)  
+
 An analysis of COVID-19 data, provided by the CDC, at a state-level. Includes cases and deaths, both probable and confirmed, over 19 months.
   
   <img src="images/corona.jpg"/>
