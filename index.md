@@ -15,7 +15,7 @@ An analysis of COVID-19 data, provided by the CDC, at a state-level. Includes ca
 ---
 ## COVID-19 Cases and Deaths  
   
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arquillen-py/jupyter-books/HEAD?filepath=metacriticwordcloud.ipynb)  
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arquillen-py/jupyter-books/HEAD?filepath=metacriticwordcloud.ipynb){:target="_blank"}  
 
 <img src="images/vgwc.jpg"/>
 
