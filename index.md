@@ -24,21 +24,11 @@ Creating a word cloud using user reviews from Metacritic.
 ---
 ## Regional Video Game Sales
   
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arquillen-py/jupyter-books/HEAD?filepath=regionalsalescat.ipynb)  
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arquillen-py/jupyter-books/HEAD?filepath=VGSales.ipynb)  
   
 An analysis of video game sales ranging from 1980 to 2016.
 
 <img src="images/eujpusa.png"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
