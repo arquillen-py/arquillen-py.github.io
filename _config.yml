@@ -2,13 +2,15 @@ title: Austin Quillen # your name (or website title) here
 logo: "images/logo.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   A place for me to keep various data science project I've worked on. I continuosly update them, so they may change from time-to-time.  
-  
+
+
   Ctrl + click on any of the badges to launch a fully interactive binder instance for each project in a new tab. They may take a bit
   to launch if they haven't been ran in a while, so please be patient; it shouldn't take longer than a minute.  
   
   Feel free to email me with any questions or comments!  
   
-  E-mail: arquillen@gmail.com
+  E-mail: arquillen@gmail.com  
+  
   <br><br>
   
   
