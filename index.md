@@ -3,8 +3,13 @@
 ---
 
 # Python Projects 
+
+## All Notebooks
+
 [![nbviewer](https://img.shields.io/badge/jupyter_notebooks-nbviewer-purple.svg?style=flat-square)](https://nbviewer.jupyter.org/github/arquillen-py/jupyter-books/tree/main/)
 
+Check out all of the notebooks at once via NBViewer. Fast, but static.
+---
 ## COVID-19 Cases and Deaths  
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arquillen-py/jupyter-books/HEAD?filepath=Covid.ipynb)  
@@ -36,6 +41,5 @@ An analysis of video game sales ranging from 1980 to 2016 from various angles, i
 
 
 
----
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
