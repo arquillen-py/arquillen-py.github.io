@@ -17,7 +17,7 @@ An analysis of COVID-19 data, provided by the CDC, at a state-level. Includes ca
   
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arquillen-py/jupyter-books/HEAD?filepath=Metacritic.ipynb)  
   
-Creating a word cloud using user reviews from Metacritic.
+Creating a word cloud using user reviews from Metacritic, as well as a sentiment analysis on Nintendo 64 reviews. Utilizes the NLTK library.
 
 <img src="images/vgwc.jpg"/>
 
@@ -26,7 +26,7 @@ Creating a word cloud using user reviews from Metacritic.
   
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arquillen-py/jupyter-books/HEAD?filepath=VGSales.ipynb)  
   
-An analysis of video game sales ranging from 1980 to 2016.
+An analysis of video game sales ranging from 1980 to 2016 from various angles, including region, developer, genre, and platform
 
 <img src="images/eujpusa.png"/>
 
