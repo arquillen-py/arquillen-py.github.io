@@ -10,7 +10,6 @@ description: > # your text below (remove <br> elements if you don't need line br
     <td><a href = https://github.com/arquillen-py"><img src="images/github.png"/></td>
   </tr>
   </table> 
-  <br><br>
   A place where I keep various data science projects I'm working on. I continuously update them, so they may change from time-to-time.  
   <br><br>
   Ctrl + click on any of the badges to launch a fully interactive Jupyter notebook instance for each project in a new tab. They may take a bit
