@@ -1,7 +1,7 @@
 title: Austin Quillen # your name (or website title) here
 logo: "images/logo.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Location: <a target="_blank" href="https://icons8.com/icon/17099/location">Location</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+  <img src="https://img.icons8.com/windows/50/000000/worldwide-location.png"/>
   <br><br>
   A place for me to keep various data science projects I've worked on. I continuously update them, so they may change from time-to-time.  
   <br><br>
