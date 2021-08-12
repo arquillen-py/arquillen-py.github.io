@@ -3,7 +3,7 @@ logo: "images/logo.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <img src="https://img.icons8.com/windows/24/000000/worldwide-location.png"/>  
   <span class="iconify" data-icon="simple-icons:indeed"></span>  
-  "images/github.png"
+  logo: "images/github.png"
   <br><br>
   A place for me to keep various data science projects I've worked on. I continuously update them, so they may change from time-to-time.  
   <br><br>
