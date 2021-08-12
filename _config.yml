@@ -1,11 +1,7 @@
 title: Austin Quillen # your name (or website title) here
 logo: "images/logo.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  
-    table.center {
-    margin-left:auto; 
-    margin-right:auto;
-  }
+
   
   <table class="center">
   <tr>
