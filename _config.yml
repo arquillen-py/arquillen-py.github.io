@@ -12,8 +12,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   E-mail: arquillen@gmail.com  
   <br>
   
-label: Location
-  
 theme: jekyll-theme-minimal
+minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
 google_analytics: UA-204840392-1
