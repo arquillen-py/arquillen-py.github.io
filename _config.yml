@@ -1,6 +1,8 @@
 title: Austin Quillen # your name (or website title) here
 logo: "images/logo.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
+  Location: logo: "images/location.png
+  <br><br>
   A place for me to keep various data science projects I've worked on. I continuously update them, so they may change from time-to-time.  
   <br><br>
   Ctrl + click on any of the badges to launch a fully interactive binder instance for each project in a new tab. They may take a bit
