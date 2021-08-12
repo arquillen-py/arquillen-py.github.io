@@ -7,7 +7,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <tr>
     <td><a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=arquillen@gmail.com" target="_blank"><img src="images/mailsend.png"/></a></td>
     <td><a href = https://my.indeed.com/p/austinq-ql0o47l"><img src="images/indeed.png"/></a></td>
-    <td><a href = https://github.com/arquillen-py"><img src="images/github.png"/></td>
+    <td><a href = https://github.com/arquillen-py><img src="images/github.png"/></td>
   </tr>
   </table> 
   A place where I keep various data science projects I'm working on. I continuously update them, so they may change from time-to-time.  
