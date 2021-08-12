@@ -1,7 +1,7 @@
 ## Portfolio
 
 ---
-# Python Projects
+# Python Projects 
 
 [![Binder](https://img.shields.io/badge/jupyter_notebooks-nbviewer-purple.svg?style=flat-square)](https://nbviewer.jupyter.org/github/arquillen-py/jupyter-books/tree/main/) 
 
