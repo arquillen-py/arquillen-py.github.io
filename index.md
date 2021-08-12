@@ -1,7 +1,6 @@
 ## Portfolio
 
 ---
-
 # Python Projects 
 
 ## All Notebooks
