@@ -36,6 +36,12 @@ An analysis of video game sales ranging from 1980 to 2016 from various angles, i
 
 ***
 
+## Tableau Visualizations
+
+***
+### COVID by State
+
+<iframe src="https://docs.google.com/gview?url=https://github.com/arquillen-py/arquillen-py.github.io/blob/main/images/covidmap.pdf" style="width:800px; height:600px;" frameborder="0"></iframe>
 
 
 
