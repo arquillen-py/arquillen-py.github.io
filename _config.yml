@@ -4,7 +4,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   A place for me to keep various data science project I've worked on. I continuosly update them, so they may change from time-to-time.  
   <br><br>
   Ctrl + click on any of the badges to launch a fully interactive binder instance for each project in a new tab. They may take a bit
-  to launch if they haven't been ran in a while, so please be patient; it shouldn't take longer than a minute.  
+  to launch if they haven't been ran in a while, so please be patient; ii might take a couple minutes. You can check out a static, non-interative version
+  at the repository on Github
   <br><br>
   Feel free to email me with any questions or comments!  
   <br><br>
