@@ -10,12 +10,11 @@ description: > # your text below (remove <br> elements if you don't need line br
     <td><a href = https://github.com/arquillen-py"><img src="images/github.png"/></td>
   </tr>
   </table> 
-  
   <br><br>
-  A place for me to keep various data science projects I've worked on. I continuously update them, so they may change from time-to-time.  
+  A place where I keep various data science projects I'm working on. I continuously update them, so they may change from time-to-time.  
   <br><br>
-  Ctrl + click on any of the badges to launch a fully interactive binder instance for each project in a new tab. They may take a bit
-  to launch if they haven't been ran in a while, so please be patient; ii might take a couple minutes. You can check out a static, non-interative version
+  Ctrl + click on any of the badges to launch a fully interactive Jupyter notebook instance for each project in a new tab. They may take a bit
+  to launch if they haven't been run in a while, so please be patient; it might take a couple minutes. You can check out a static, non-interactive version
   at the repository on Github.
   <br><br>
   Feel free to email me with any questions or comments!  
