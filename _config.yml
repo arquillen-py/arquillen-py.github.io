@@ -14,7 +14,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Ctrl + click on any of the badges to launch a fully interactive Jupyter notebook instance for each project in a new tab. They may take a bit
   to launch if they haven't been run in a while, so please be patient; it might take a couple minutes. You can check out a static, non-interactive version
-  at the repository on Github.
+  ny clicking the nbviewer badge.
   <br><br>
   Feel free to email me with any questions or comments!  
   <br><br>
