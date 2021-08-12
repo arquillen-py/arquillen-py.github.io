@@ -13,7 +13,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
  
  links:
-    - label:
+    - label: "Email"
       icon:
   
 theme: jekyll-theme-minimal
