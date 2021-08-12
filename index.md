@@ -41,7 +41,7 @@ An analysis of video game sales ranging from 1980 to 2016 from various angles, i
 ***
 ### COVID by State
 
-<iframe src="https://github.com/arquillen-py/arquillen-py.github.io/blob/main/images/covidmap.pdf"></iframe>
+{{ site.baseurl }}/images/covidmap.pdf
 
 
 
