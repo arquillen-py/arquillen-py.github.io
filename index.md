@@ -14,7 +14,7 @@ Check out all of the notebooks at once via NBViewer. Fast, but static.
 
 An analysis of COVID-19 data, provided by the CDC, at a state-level. Includes cases and deaths, both probable and confirmed, over 19 months.
   
-  <img src="images/corona.jpg"/>
+<img src="images/corona.jpg"/>
 
 ***
 ### Metacritic Video Game Review Comments 
@@ -33,16 +33,15 @@ Creating a word cloud using user reviews from Metacritic, as well as a sentiment
 An analysis of video game sales ranging from 1980 to 2016 from various angles, including region, developer, genre, and platform.
 
 <img src="images/eujpusa.png"/>
-
-<!---
-## Tableau Visualizations
-
 ***
+### Sleep Quality Study
+  
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arquillen-py/jupyter-books/HEAD?filepath=Sleep.ipynb)  
+  
+A look at sleep data acquired from the app Sleep Cycle, between 2014 and 2018, with some qualitative variables.
 
-### COVID by State
+<img src="images/sleep.png"/>
 
-![covidmap](images/covidmap.png)
---->
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
