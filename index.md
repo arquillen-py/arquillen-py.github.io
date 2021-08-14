@@ -33,6 +33,7 @@ Creating a word cloud using user reviews from Metacritic, as well as a sentiment
 An analysis of video game sales ranging from 1980 to 2016 from various angles, including region, developer, genre, and platform.
 
 <img src="images/eujpusa.png"/>
+
 ***
 ### Sleep Quality Study
   
