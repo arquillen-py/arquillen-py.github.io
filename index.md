@@ -41,7 +41,7 @@ An analysis of video game sales ranging from 1980 to 2016 from various angles, i
   
 A look at sleep data acquired from the app Sleep Cycle, between 2014 and 2018, with some qualitative variables.
 
-<img src="images/sleep.png"/>
+<img src="images/sleep.jpg"/>
 
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
