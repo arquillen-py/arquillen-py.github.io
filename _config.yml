@@ -24,7 +24,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br />
   <br />
   <br />
-  <a href=https://www.credly.com/badges/6f6b4303-d4d3-449a-a512-6110d64d071d/public_url><img src="images/DataVizPythonIBMBadge.png"></a>
+  <a href=https://www.credly.com/badges/6f6b4303-d4d3-449a-a512-6110d64d071d/public_url><img src="images/DataVizPythonIBMBadge.png" width="126" height="126"></a>
   
 theme: jekyll-theme-minimal
 
