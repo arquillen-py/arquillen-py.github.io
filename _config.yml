@@ -24,7 +24,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br />
   <br />
   <br />
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="images/DataVizPythonIBMBadge.png" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6f6b4303-d4d3-449a-a512-6110d64d071d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="images/DataVizPythonIBMBadge.png"></script>
   
 theme: jekyll-theme-minimal
 
