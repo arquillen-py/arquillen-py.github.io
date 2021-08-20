@@ -8,6 +8,15 @@
 Check out all of the notebooks at once via NBViewer. Fast, but static.
 
 ***
+### Microsoft Real Estate Regression Challenge
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arquillen-py/jupyter-books/HEAD?filepath=RealEstate.ipynb)  
+
+A small challenge from Microsoft to predict real estate price per unit using regression, in this case the RandomForestRegressor from scikit-learn.
+  
+<img src="images/corona.jpg"/>
+
+***
 ### COVID-19 Cases and Deaths  
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arquillen-py/jupyter-books/HEAD?filepath=Covid.ipynb)  
