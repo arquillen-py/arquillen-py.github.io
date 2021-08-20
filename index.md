@@ -14,7 +14,7 @@ Check out all of the notebooks at once via NBViewer. Fast, but static.
 
 A small challenge from Microsoft to predict real estate price per unit using regression, in this case the RandomForestRegressor from scikit-learn.
   
-<img src="images/corona.jpg"/>
+<img src="images/realestate.png"/>
 
 ***
 ### COVID-19 Cases and Deaths  
