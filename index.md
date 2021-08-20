@@ -13,6 +13,7 @@ Check out all of the notebooks at once via NBViewer. Fast, but static.
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/arquillen-py/jupyter-books/HEAD?filepath=RealEstate.ipynb)  
 
 A small challenge from Microsoft to predict real estate price per unit using regression, in this case the RandomForestRegressor from scikit-learn.
+NOTE: you will have to go to File->Trust Notebook to be able to see the map! All other graphics will load just fine.
   
 <img src="images/realestate.png"/>
 
